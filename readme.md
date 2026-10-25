@@ -18,8 +18,8 @@ The website is fully responsive and works on desktop, tablet, and mobile devices
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Projects Included
